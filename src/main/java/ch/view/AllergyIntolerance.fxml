@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+
+<AnchorPane prefHeight="400.0" prefWidth="200.0" xmlns="http://javafx.com/javafx/9.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ch.controller.AllergyIntoleranceCtrl">
+   <children>
+      <Label layoutX="14.0" layoutY="14.0" text="AllergyIntolerance:">
+         <font>
+            <Font name="System Bold" size="14.0" />
+         </font>
+      </Label>
+<<<<<<< HEAD:src/main/java/ch/view/AllergyIntolarence.fxml
+      <ListView fx:id="komorbiditetList" layoutY="41.0" prefHeight="358.0" prefWidth="200.0" />
+=======
+      <ListView fx:id="AllergyIntoleranceList" layoutY="41.0" prefHeight="358.0" prefWidth="200.0" />
+>>>>>>> da4c9a45ab3f264c9950a435c20e6a544f5ee3b2:src/main/java/ch/view/AllergyIntolerance.fxml
+   </children>
+</AnchorPane>
