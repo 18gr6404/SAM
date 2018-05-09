@@ -1,3 +1,30 @@
 + out/
 + .gradle/
 + -idea/
+out/production/classes/main/model/WeeklyParameters.class
+out/production/classes/main/model/OverviewParameters.class
+out/production/classes/ch/view/patientView.fxml
+out/production/classes/ch/view/RootLayout.fxml
+out/production/classes/ch/view/PractitionerView.fxml
+out/production/classes/ch/view/MedicationView.fxml
+out/production/classes/ch/view/CreateAsthmaAppUserView.fxml
+out/production/classes/ch/view/ConsultationMeasurementView.fxml
+out/production/classes/ch/view/ConditionView.fxml
+out/production/classes/ch/view/AllergyIntolerance.fxml
+out/production/classes/ch/utility/dateUtil.class
+out/production/classes/ch/db_And_FHIR/dbControl.class
+out/production/classes/ch/db_And_FHIR/FhirControl.class
+out/production/classes/ch/controller/WeeklyOverviewCtrl.class
+out/production/classes/ch/controller/PractitionerCtrl.class
+out/production/classes/ch/controller/PatientCtrl.class
+out/production/classes/ch/controller/OverviewCtrl.class
+out/production/classes/ch/controller/MedicationCtrl.class
+out/production/classes/ch/controller/EpicrisisCtrl.class
+out/production/classes/ch/controller/CreateAsthmaAppUserCtrl.class
+out/production/classes/ch/controller/ConsultationMeasurementCtrl.class
+out/production/classes/ch/controller/ConditionCtrl.class
+out/production/classes/ch/controller/CalculatedParametersCtrl.class
+out/production/classes/ch/controller/AllergyIntoleranceCtrl.class
+out/production/classes/ch/MainApp.class
+.gradle/
+.idea/
